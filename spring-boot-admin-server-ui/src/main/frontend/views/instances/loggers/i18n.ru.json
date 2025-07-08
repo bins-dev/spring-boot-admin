@@ -10,7 +10,6 @@
       "instance": "Экземпляр",
       "new": "новый",
       "no_loggers_found": "Журналы не найдены.",
-      "reset": "Сбросить",
       "setting_loglevel_failed": "Ошибка при установке {logger} на {loglevel}."
     }
   }
